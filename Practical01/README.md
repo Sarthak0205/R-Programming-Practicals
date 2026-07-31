@@ -50,7 +50,9 @@ Practical01/
 ├── PRSA_Data_Aotizhongxin_20130301-20170228.csv
 └── README.md
 ```
+## Output Visualization
 
+![Missing Values Graph](images/missing-values-graph.png)
 ## Output
 
 - Cleaned Air Quality Dataset
